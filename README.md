@@ -1,6 +1,6 @@
 ![MasterHead](https://png.pngtree.com/background/20231018/original/pngtree-computer-programmer-operating-3d-rendering-robot-in-automated-work-environment-picture-image_5598534.jpg)
 <h1 align="center">Hi 👋, I'm Daniel Gal</h1>
-<h3 align="center">A passionate new software engineering</h3>
+<h3 align="center">A passionate new software engineer</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" style="float: right;">
 
 - 🤝 I’m looking for help with **Looking for a place to develop**
